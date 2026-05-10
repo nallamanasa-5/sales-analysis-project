@@ -99,3 +99,16 @@ The project generates:
 
 ## Author
 Manasa Nalla
+## Screenshots
+
+### Region Wise Sales
+![Region Sales](screenshots/region_sales_chart.png)
+
+### Category Wise Sales
+![Category Sales](screenshots/category_sales_chart.png)
+
+### Top Sub-Categories
+![Pie Chart](screenshots/pie_chart.png)
+
+### Sales Distribution
+![Histogram](screenshots/sales_histogram.png)
